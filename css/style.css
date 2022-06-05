@@ -1,0 +1,12 @@
+.active {
+    border-bottom: 2px solid;
+    background-color: #ab977f;
+}
+
+.information {
+    text-align: center;
+    align-items: center;
+    background-color: rgb(28, 135, 44);
+    padding: 10px;
+    color: aliceblue;
+}
